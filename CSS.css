@@ -1,0 +1,57 @@
+h1 {
+    color: #11AA33;
+    background-color: silver;
+    text-align: right;
+}
+.XD {
+    letter-spacing: 1mm;
+    border-style: double;
+    border-width: 3px;
+}
+.p1 {
+    color: blue;
+    text-indent: 5em;
+    width: 50%;
+    text-align: justify;
+    line-height: 200%;
+    word-spacing: 1em;
+
+}
+.Fajne4 {
+    font-family: Arial;
+    word-spacing: 15px;
+    letter-spacing: 5px;
+}
+.Wood_Fired_Pizza {
+    text-decoration: overline;
+    text-indent: 10%;
+    font-weight: bold;
+}
+.Jacuś {
+    font-weight: bold;
+    list-style-type: none;
+}
+.Fajne {
+    list-style-type: disc;
+}
+.Dobre {
+    background-color: #FFFFCC;
+    list-style-type: lower-alpha;
+}
+.Fajne1 {
+    list-style-type: square;
+}
+.Fajne2 {
+    list-style-type: circle;
+}
+.Fajne3 {
+    list-style-type: none;
+    font-weight: bold;
+}
+.Fajne5 {
+    font-weight: normal;
+    margin-left: 1cm;
+}
+.Fajne6 {
+    font-weight: normal;
+}
